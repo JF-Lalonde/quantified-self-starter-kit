@@ -1,7 +1,7 @@
 ## Quantified Self Calorie Tracker
 ### Created by Desislava Todorova and JF Lalonde
 
-* Quantified Self is a calorie tracker app for each meal of the day, including snacks.
+* Quantified Self is a calorie tracker app built in JavaScript with a backend built using Node. The app tracks calories for each meal of the day, including snacks.
 * Add foods from an existing database or create new foods with their corresponding calories
 
 ### API Enpoints Data is coming from
