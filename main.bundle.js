@@ -693,6 +693,9 @@
 
 	$(document).ready(function () {
 	  createTableContents();
+	  $('#searchInput').keyup(function () {
+	    filter(this);
+	  });
 	});
 
 	function createTableContents() {
